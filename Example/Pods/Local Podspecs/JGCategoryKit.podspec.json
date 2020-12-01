@@ -1,0 +1,22 @@
+{
+  "name": "JGCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of JGCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qifei001/JGCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qifei001": "flameliu@cmi.chinamobile.com"
+  },
+  "source": {
+    "git": "https://github.com/qifei001/JGCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JGCategoryKit/Classes/**/*"
+}
